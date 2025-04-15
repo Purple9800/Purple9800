@@ -1,4 +1,6 @@
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+## Programming Language Logos
+
+<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python Logo" width="60" />
+<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" alt="C# Logo" width="60" />
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++ Logo" width="60" />
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML Logo" width="60" />
