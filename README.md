@@ -6,4 +6,5 @@
   <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript Logo" width="60"/>
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB Logo" width="60"/>
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js Logo" width="60"/>
+  <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux Logo" width="80"/>
 </p>
