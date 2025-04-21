@@ -1,3 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Waving Hand Emoji</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #fdf6e3;
+      font-family: Arial, sans-serif;
+    }
+
+    .wave {
+      font-size: 5rem;
+      display: inline-block;
+      animation: wave-animation 2s infinite;
+      transform-origin: 70% 70%;
+    }
+
+    @keyframes wave-animation {
+      0% { transform: rotate( 0.0deg) }
+     10% { transform: rotate(14.0deg) }  /* The hand waves */
+     20% { transform: rotate(-8.0deg) }
+     30% { transform: rotate(14.0deg) }
+     40% { transform: rotate(-4.0deg) }
+     50% { transform: rotate(10.0deg) }
+     60% { transform: rotate( 0.0deg) }  /* End position */
+    100% { transform: rotate( 0.0deg) }
+    }
+  </style>
+</head>
+<body>
+  <div class="wave">👋</div>
+</body>
+</html>
+
+
 ## 👋 Hello there! Welcome to my GitHub
 I'm Purple
 
